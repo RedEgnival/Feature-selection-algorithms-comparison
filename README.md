@@ -13,7 +13,7 @@ An advanced fraud detection system comparing genetic algorithm feature selection
 - Interactive visualizations of results
 
 ## 🧠 Methodology
-```mermaid
+
 graph TD
     A[Raw Data] --> B[Data Sampling]
     B --> C[Feature Scaling]
